@@ -266,7 +266,7 @@ ipcMain.handle('generate-timetable', async () => {
 1. Clone the repository:
 ```bash
 git clone https://github.com/ASWINNIDESH/Advanced Time Table Generator.git
-cd TIME-TABLE-GENERATOR
+cd Advanced Time Table Generator
 ```
 
 2. Install dependencies:
