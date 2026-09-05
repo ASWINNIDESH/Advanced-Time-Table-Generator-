@@ -406,7 +406,7 @@ Adjust these values to change algorithm behavior.
 ## Support & Development
 
 For issues or feature requests, please visit:
-https://github.com/codewith-lionel/TIME-TABLE-GENERATOR
+https://github.com/ASWINNIDESH/Advanced-Time-Table-generator
 
 ---
 
